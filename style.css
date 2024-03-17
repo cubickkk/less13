@@ -1,0 +1,70 @@
+@import url('https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap');
+body {
+		font-family: "Permanent Marker", cursive;
+}
+.section{
+	border: 100vh;
+	background-image: url(./africa.jpg);
+	background-repeat: no-repeat;
+	background-size: 100%;
+	width: 100vw;
+	display: flex;
+	margin-bottom: 50px;
+}
+.text {
+font-size: 70px;
+color: lime;
+border-bottom-color: lime;
+border-bottom-style: double;
+border-bottom-width: 5px;
+text-shadow: 3px 3px 3px #333;
+}
+.sectioncd{
+	display: flex;
+	margin-top: 50px;
+	border-top-style: solid;
+	border-top-color: red;
+	border-top-width: 2px;
+	margin-bottom: 50px;
+	
+
+}
+.para {
+	font-size: 12px;
+}
+
+.hath {
+	padding-left: 20vh;
+}
+.haf {
+	padding-left: 40vh;
+}
+.sectionth{
+	margin-top: 50px;
+	display: flex;
+	flex-direction: row-reverse;
+	background: linear-gradient(29deg, rgba(227,223,73,1) 18%, rgba(188,255,57,1) 46%);
+color: brown;
+
+}
+.gg {
+	font-size: 12px;
+	display: flex;
+	align-items: center;
+	background: rgb(227,223,73);
+
+margin-left: 20px;
+border-style: solid;
+border-image-width: 40px;
+border-image-source: url(./foot_frame.png);
+border-image-slice: 40;
+border-image-repeat: round;
+margin: 0;
+padding: 50px;
+text-align: justify;
+}
+
+
+
+
+
